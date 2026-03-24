@@ -22,8 +22,8 @@ Also, initialize a matrix `aux3` to store the cube of the adjacency matrix (i.e.
 ## PYTHON PROGRAM
 
 ```python
-#REGNO:-212222060013
-#Name:- AKSHAIYAN S
+#REGNO:-212222060252
+#Name:- SREE DHARMA A V
 # A Python3 program for finding number of
 # triangles in an Undirected Graph. The
 # program is for adjacency matrix
