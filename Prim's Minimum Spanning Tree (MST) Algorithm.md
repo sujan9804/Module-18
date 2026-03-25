@@ -23,8 +23,8 @@ To write a Python program for **Prim's Minimum Spanning Tree (MST)** algorithm.
 ## PYTHON PROGRAM
 
 ```python
-#REGNO:-212222060252
-#Name:- SREE DHARMA A V
+#REGNO:-212222060262
+#Name:- SUJAN S B
 # A Python program for Prim's Minimum Spanning Tree (MST) algorithm.
 # The program is for adjacency matrix representation of the graph
 
